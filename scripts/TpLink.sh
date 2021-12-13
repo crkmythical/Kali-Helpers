@@ -10,7 +10,8 @@ cat  <<  EOF
 /_/ /_/   /_____/___/_/ |_/_/ |_|  
 
 V2/V3  Driver Compile & Install on Kali Linux
-Developed By : Mehedi Shakeel                                   
+YouTube : https://www.youtube.com/sstectutorials
+Developed By : Mehedi Shakeel
                                                                  
 EOF
 
