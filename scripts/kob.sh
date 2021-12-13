@@ -1,4 +1,16 @@
 #!/usr/bin/bash
+
+cat  <<  EOF 
+
+ _   _____________ 
+| | / /  _  | ___ \
+| |/ /| | | | |_/ /
+|    \| | | | ___ \
+| |\  \ \_/ / |_/ /
+\_| \_/\___/\____/ 
+                   
+EOF
+
 echo "RUN KALI ON BROWSER..."
 sleep 5
 echo "UPDATING KALI LINUX..."
