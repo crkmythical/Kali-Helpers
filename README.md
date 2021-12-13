@@ -11,4 +11,6 @@ Scripts Listing :
 
 4. SearX - Search Engine Installer
 
+5. TpLink - V2/V3 Driver Compile & Installer 
+
 More Coming Soon...
