@@ -1,5 +1,4 @@
-#How To Use Tp-Link WN722N V2/V3 on Kali Linux?
-#Use these following commands to make TP-Link_TL-WN722N V2/V3 adapter working adapter working on Kali linux for packet injection and monitoring!
+#Use these following commands to make TP-Link_TL-WN722N V2/V3 adapter working on Kali linux for packet injection and monitoring!
 
 #Commands:
 sudo apt update
