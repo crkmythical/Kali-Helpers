@@ -15,6 +15,15 @@ Developed By : Mehedi Shakeel
                                                                  
 EOF
 
+#Checking For Root Access
+echo "Checking For Root User...."
+sleep 2
+if [[ $(id -u) -ne 0 ]] ; then 
+   echo "You are Not Root! Please Run as root" ; exit 1 ; 
+else echo "Ready To Go.." ; 
+fi
+
+
 sleep 2
 
 PS3='Please enter your choice: '
