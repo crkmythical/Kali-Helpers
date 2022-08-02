@@ -10,8 +10,16 @@ cat  <<  EOF
 \_| \_/\___/\____/ 
                    
 EOF
-
 echo "RUN KALI ON BROWSER..."
+
+#Checking For Root Access
+echo "Checking For Root User...."
+sleep 2
+if [[ $(id -u) -ne 0 ]] ; then 
+   echo "You are Not Root! Please Run as root" ; exit 1 ; 
+else echo "Checking For Requirement Packages.." ; 
+fi
+
 echo "UPDATING KALI LINUX..."
 sudo apt update
 clear
