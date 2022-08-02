@@ -12,13 +12,10 @@ cat  <<  EOF
 EOF
 
 echo "RUN KALI ON BROWSER..."
-sleep 5
 echo "UPDATING KALI LINUX..."
-sleep 5
 sudo apt update
 clear
 echo "INSTALLING NOVNC X11VNC..."
-sleep 5
 sudo apt install -y novnc x11vnc
 clear
 echo "CONFIGURE X11VNC..."
