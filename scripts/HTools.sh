@@ -1,9 +1,9 @@
 #!/bin/bash
-#Hacking Tools Collection by SSTec Tutorials
-#YouTube Channel : https://www.youtube.com/sstectutorials
-#Website : http://www.sstectutorials.com/
-#Facebook Page : https://web.facebook.com/sstectutorials
-#Author : Mehedi Shakeel
+#Hacking Tools Collection
+#Created By Mehedi Shakeel
+#YouTube Channel : https://www.youtube.com/mehedishakeel
+#Website : http://www.mehedishakeel.com/
+#Facebook Page : https://web.facebook.com/mehedishakeel
 
 clear
 
